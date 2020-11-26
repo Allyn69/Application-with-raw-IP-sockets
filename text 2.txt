@@ -1,0 +1,14 @@
+compiler.cpp: In function 'int main()':
+compiler.cpp:7:1: error: 'root' was not declared in this scope
+ root = true
+ ^~~~
+compiler.cpp:7:1: note: suggested alternative: 'bool'
+ root = true
+ ^~~~
+ bool
+compiler.cpp:9:3: error: expected primary-expression before ']' token
+ [*]
+   ^
+compiler.cpp:14:15: error: expected '}' at end of input
+ indent_size = 4
+               ^
