@@ -1,0 +1,6 @@
+[submodule "AI.Pro"]
+	path = AI.Pro
+	url = https://Allyn69@github.com/Allyn69/AIPro
+[submodule "gist"]
+	path = gist
+	url = https://gist.github.com/
