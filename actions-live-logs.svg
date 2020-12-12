@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Live logs</title>
+    <desc>Created with Sketch.</desc>
+    <g id="light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Titles" opacity="0.597353981" transform="translate(-927.000000, -1181.000000)"></g>
+        <g id="Slides" transform="translate(-912.000000, -1247.000000)"></g>
+        <g id="Group-65" transform="translate(5.000000, 5.000000)" stroke-linecap="round" stroke-width="2">
+            <g id="Changelog">
+                <g id="Group-3" transform="translate(5.000000, 4.000000)" stroke-linejoin="round">
+                    <g id="Group-2">
+                        <g id="Security-and-Admin" transform="translate(12.000000, 0.000000)">
+                            <path d="M0,5 L20,5" id="Stroke-13" stroke="#2088FF"></path>
+                            <path d="M0,1 L10,1" id="Stroke-15" stroke="#2088FF"></path>
+                            <path d="M0,14 L20,14" id="Stroke-13" stroke="#2088FF"></path>
+                            <path d="M-2.48689958e-14,10 L10,10" id="Stroke-15" stroke="#2088FF"></path>
+                            <path d="M-2.48689958e-14,30 L10,30" id="Stroke-15" stroke="#79B8FF"></path>
+                            <path d="M7.99360578e-15,34 L10,34" id="Stroke-21" stroke="#79B8FF"></path>
+                        </g>
+                        <rect id="Rectangle-7" stroke="#79B8FF" x="0" y="29" width="6" height="6" rx="3"></rect>
+                        <path d="M12,20 L22,20" id="Stroke-15" stroke="#79B8FF"></path>
+                        <path d="M12,24 L29,24" id="Stroke-21" stroke="#79B8FF"></path>
+                        <rect id="Rectangle-7" stroke="#79B8FF" x="0" y="19" width="6" height="6" rx="3"></rect>
+                    </g>
+                </g>
+                <g id="Finish-your-Project" stroke-linejoin="round">
+                    <g id="Group-11">
+                        <path d="M39.0491803,31.0125732 C43.4674412,31.0125732 47.0491803,34.5943124 47.0491803,39.0125732 C47.0491803,43.4308341 43.4674412,47.0125732 39.0491803,47.0125732 C34.6309195,47.0125732 31.0491803,43.4308341 31.0491803,39.0125732 C31.0491803,34.5943124 34.6309195,31.0125732 39.0491803,31.0125732 Z" id="Stroke-3" stroke="#2088FF"></path>
+                        <path d="M38.116802,35.7611499 L41.962708,38.157077 C42.4314693,38.4491066 42.5747388,39.0658494 42.2827093,39.5346108 C42.2006331,39.6663581 42.0890142,39.7771901 41.9566894,39.858332 L38.1107835,42.2166523 C37.6399677,42.5053579 37.0242539,42.3577283 36.7355483,41.8869125 C36.6390901,41.7296102 36.5880358,41.5486865 36.5880358,41.3641648 L36.5880358,36.6099174 C36.5880358,36.0576327 37.035751,35.6099174 37.5880358,35.6099174 C37.7749616,35.6099174 37.9581454,35.6623099 38.116802,35.7611499 Z" id="Rectangle-50" stroke="#2088FF" fill-rule="nonzero"></path>
+                        <path d="M0,38 L0,2 C0,0.840028925 0.772073016,0 2,0 L40,0 C41.227927,0 42,0.840028925 42,2 L42,27" id="Stroke-5" stroke="#79B8FF"></path>
+                    </g>
+                </g>
+                <path d="M8.01306152,30 L8.01306152,32" id="Path-5" stroke="#79B8FF" fill-rule="nonzero"></path>
+            </g>
+            <polyline id="Stroke-10" stroke="#2088FF" stroke-linejoin="round" points="10.5599344 15 7.49074697 18.0651125 6 16.5796372"></polyline>
+            <polyline id="Stroke-10" stroke="#2088FF" stroke-linejoin="round" points="10.5599344 6 7.49074697 9.06511252 6 7.57963722"></polyline>
+        </g>
+    </g>
+</svg>

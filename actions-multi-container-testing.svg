@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Multi-container testing</title>
+    <desc>Created with Sketch.</desc>
+    <g id="light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Titles" opacity="0.597353981" transform="translate(-15.000000, -1295.000000)"></g>
+        <g id="Slides" transform="translate(0.000000, -1361.000000)"></g>
+        <g id="Group-60" transform="translate(5.000000, 5.000000)" stroke-width="2">
+            <g id="Changelog" stroke-linecap="round" stroke-linejoin="round">
+                <g id="Finish-your-Project">
+                    <g id="Group-11">
+                        <path d="M39.0491803,31.0125732 C43.4674412,31.0125732 47.0491803,34.5943124 47.0491803,39.0125732 C47.0491803,43.4308341 43.4674412,47.0125732 39.0491803,47.0125732 C34.6309195,47.0125732 31.0491803,43.4308341 31.0491803,39.0125732 C31.0491803,34.5943124 34.6309195,31.0125732 39.0491803,31.0125732 Z" id="Stroke-3" stroke="#2088FF"></path>
+                        <path d="M38.116802,35.7611499 L41.962708,38.157077 C42.4314693,38.4491066 42.5747388,39.0658494 42.2827093,39.5346108 C42.2006331,39.6663581 42.0890142,39.7771901 41.9566894,39.858332 L38.1107835,42.2166523 C37.6399677,42.5053579 37.0242539,42.3577283 36.7355483,41.8869125 C36.6390901,41.7296102 36.5880358,41.5486865 36.5880358,41.3641648 L36.5880358,36.6099174 C36.5880358,36.0576327 37.035751,35.6099174 37.5880358,35.6099174 C37.7749616,35.6099174 37.9581454,35.6623099 38.116802,35.7611499 Z" id="Rectangle-50" stroke="#2088FF" fill-rule="nonzero"></path>
+                        <path d="M27,38 L2,38 C0.772073016,38 0,37.1599711 0,36 L0,2 C0,0.840028925 0.772073016,0 2,0 L40,0 C41.227927,0 42,0.840028925 42,2 L42,27" id="Stroke-5" stroke="#79B8FF"></path>
+                    </g>
+                </g>
+            </g>
+            <polyline id="Stroke-10" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" points="33.5599344 13 30.490747 16.0651125 29 14.5796372"></polyline>
+            <polyline id="Stroke-10" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" points="13.5599344 13 10.490747 16.0651125 9 14.5796372"></polyline>
+            <rect id="Rectangle" stroke="#79B8FF" stroke-linejoin="round" x="4" y="10" width="15" height="9"></rect>
+            <rect id="Rectangle" stroke="#79B8FF" stroke-linejoin="round" x="23" y="10" width="15" height="9"></rect>
+            <polyline id="Stroke-10" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" points="33.5599344 22 30.490747 25.0651125 29 23.5796372"></polyline>
+            <polyline id="Stroke-10" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" points="13.5599344 22 10.490747 25.0651125 9 23.5796372"></polyline>
+            <rect id="Rectangle" stroke="#79B8FF" stroke-linejoin="round" x="4" y="19" width="15" height="9"></rect>
+            <path d="M32.9971924,28 L25,28 C23.8954305,28 23,27.1045695 23,26 L23,21 C23,19.8954305 23.8954305,19 25,19 L36,19 C37.1045695,19 38,19.8954305 38,21 L38,27.0246582" id="Path" stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M28.0251465,34 L6,34 C4.8954305,34 4,33.1045695 4,32 C4,31.6048966 4,32.3095678 4,32.1140137 M4,6 C4,4.8954305 4.8954305,4 6,4 L36,4 C37.1045695,4 38,4.8954305 38,6 C38,6.90288628 38,5.580051 38,6.03149414" id="Shape" stroke="#2088FF" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>
