@@ -1,0 +1,10 @@
+$ docker images
+
+> REPOSITORY           TAG      IMAGE ID      CREATED      SIZE
+> monalisa             1.0      c75bebcdd211  4 weeks ago  1.11MB
+
+# Tag the image with OWNER/REPO/IMAGE_NAME
+$ docker tag c75bebcdd211 docker.pkg.github.com/octocat/octo-app/monalisa:1.0
+
+# Push the image to GitHub Packages
+$ docker push docker.pkg.github.com/octocat/octo-app/monalisa:1.0

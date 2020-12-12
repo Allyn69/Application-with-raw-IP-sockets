@@ -1,0 +1,6 @@
+# Build the image with docker.pkg.github.com/OWNER/REPOSITORY/IMAGE_NAME:VERSION
+# Assumes Dockerfile resides in the current working directory (.)
+$ docker build -t docker.pkg.github.com/octocat/octo-app/monalisa:1.0 .
+
+# Push the image to GitHub Packages
+$ docker push docker.pkg.github.com/octocat/octo-app/monalisa:1.0
